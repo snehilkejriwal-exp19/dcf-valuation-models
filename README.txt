@@ -19,6 +19,14 @@ financial modelling.
 - EV ranges from $1.61T (11% WACC) to $3.04T (7% WACC) — 
   highlighting the sensitivity of DCF models to discount rate assumptions
 
+## Future Work
+- Build DCF models for 3 additional companies across different sectors 
+  (energy, pharma, consumer goods)
+- Add a two-dimensional sensitivity heatmap varying both growth rate 
+  and discount rate simultaneously
+- Explore LBO (Leveraged Buyout) modelling as an extension to 
+  existing valuation work
+
 ## Tools & Libraries
 - Python, Jupyter Notebook
 - pandas, numpy
